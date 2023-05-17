@@ -4,9 +4,9 @@
 
 int main(){
     //arrary is to collect the data
-    int arrName[8] = {10,11,12,13,14,15,16};
+    int arrName[10] = {10,11,12,13,14,15,16};
 
-    for (int i = 0; i < 8; i++)
+    for (int i = 0; i <10; i++)
     {
         printf("This arrary number is %d\n",arrName[i]);
     }
